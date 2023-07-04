@@ -1,5 +1,8 @@
 // Assignment code here
-
+var passwrodNumbers = "0123456789";
+var passwordUppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var passwordLowercase = "abcdefghijklmnopqrstuvwxyz";
+var passwordSpecial = " !@#$%^&*()";
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
